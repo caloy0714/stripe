@@ -1,0 +1,17 @@
+{
+    "name": "user/ipt10stripe",
+    "autoload": {
+        "psr-4": {
+            "User\\Ipt10stripe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Calitos",
+            "email": "bernardino.carlitos@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^9.5"
+    }
+}
